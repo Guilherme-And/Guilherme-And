@@ -1,39 +1,15 @@
- ### Olá! Meu nome é Guilherme Andrade! 
- tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Front-end, área pela qual tenho grande interesse e paixão. 😊
+## Olá! Eu sou o Guilherme Andrade 👋
 
-<div>
-<a href="https://instagram.com/xguizo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/
--guilhermeand43209
-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:guilherme.devand@gmail.com
-"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi, com foco em **Dados**.
 
-</div>
+Estou aprendendo e praticando SQL, Python, Power BI e Excel para criar dashboards, automações e análises. Venho do desenvolvimento front-end, o que me ajuda a construir visualizações claras. Busco uma oportunidade de estágio em Dados e BI.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_O_LINK_DO_SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
+## 🚀 Skills
 
-## 🚀 Minhas Skills
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-</div>
-
-## 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guilherme-And&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
