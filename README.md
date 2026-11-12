@@ -4,8 +4,8 @@ Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhem
 
 Estou aprendendo e praticando SQL, Python, Power BI e Excel para criar dashboards, automações e análises. Venho do desenvolvimento front-end, o que me ajuda a construir visualizações claras. Busco uma oportunidade de estágio em Dados e BI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_O_LINK_DO_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-guilhermeand/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](guilherme.dsandrade@outlook.com)
 
 ## 🚀 Skills
 
