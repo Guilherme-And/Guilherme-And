@@ -1,8 +1,10 @@
-### Olá! Eu sou o Guilherme Andrade 👋
+## Olá! Eu sou o Guilherme Andrade 👋
 
-Tenho 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e direciono os meus estudos para a área de **Dados e Business Intelligence**.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e direciono os meus estudos para a área de **Dados e Business Intelligence**.
 
-Atualmente, concentro o meu foco em **SQL, Python, Power BI e Excel**, desenvolvendo projetos práticos voltados para a criação de dashboards gerenciais, automação de processos e análise de indicadores para apoio à decisão. 
+Atualmente, concentro o meu foco em **SQL, Python, Power BI e Excel**, desenvolvendo projetos práticos voltados para a criação de dashboards gerenciais, automação de processos e análise de indicadores para apoio à decisão.
+
+Busco oportunidades de **estágio e vagas júnior** em Dados e BI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-guilhermeand/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](guilherme.dsandrade@outlook.com)
